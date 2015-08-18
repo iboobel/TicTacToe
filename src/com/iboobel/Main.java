@@ -1,6 +1,6 @@
 package com.iboobel;
 import com.iboobel.games.*;
-import java.io.*;
+#import java.io.*;
 
 public class Main {
 	public static void main(String[] args) {
